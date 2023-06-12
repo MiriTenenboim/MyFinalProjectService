@@ -1,0 +1,195 @@
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.exe
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.deps.json
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.runtimeconfig.json
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\bin\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.AssemblyInfo.cs
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\refint\SpurringSportActivity.Common.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.pdb
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\SpurringSportActivity.Common.genruntimeconfig.cache
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Common\obj\Debug\net6.0\ref\SpurringSportActivity.Common.dll

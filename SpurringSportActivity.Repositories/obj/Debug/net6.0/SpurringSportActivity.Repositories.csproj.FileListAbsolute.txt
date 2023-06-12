@@ -1,0 +1,468 @@
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+C:\Users\tichnut\Documents\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\‏‏תיקיה חדשה\SpurringSportActivity-main\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\חומר לפרויקט גמר\פרויקט\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\פרויקט\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+C:\Users\טננבוים\Documents\מירי\Final Project\SpurringSportActivityProject\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\מירי\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\Miri\Project\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\refint\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.exe
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.deps.json
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.runtimeconfig.json
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\SpurringSportActivity.Repositories.pdb
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.csproj.CopyComplete
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\SpurringSportActivity.Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\Miri\FinalProjectServer\SpurringSportActivity.Repositories\obj\Debug\net6.0\ref\SpurringSportActivity.Repositories.dll

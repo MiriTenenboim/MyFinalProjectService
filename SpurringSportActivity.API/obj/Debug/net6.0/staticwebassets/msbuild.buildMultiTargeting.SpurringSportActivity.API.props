@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SpurringSportActivity.API.props" />
+</Project>

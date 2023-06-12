@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SpurringSportActivity.Service</id>
+    <version>1.0.0</version>
+    <authors>SpurringSportActivity.Service</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="SpurringSportActivity.Common" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="SpurringSportActivity.Repositories" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper.Extensions.Microsoft.DependencyInjection" version="12.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Service\bin\Debug\net6.0\SpurringSportActivity.Service.runtimeconfig.json" target="lib\net6.0\SpurringSportActivity.Service.runtimeconfig.json" />
+    <file src="C:\Users\טננבוים\Documents\מירי\פרויקט גמר\SpurringSportActivity\SpurringSportActivityProject\SpurringSportActivity.Service\bin\Debug\net6.0\SpurringSportActivity.Service.dll" target="lib\net6.0\SpurringSportActivity.Service.dll" />
+  </files>
+</package>
